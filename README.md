@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGs2eDF3Zjh3dHAwMnk5YWY4OWo0enNob3FhbTNzZDIwdDNjamNlbCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ViaqlyyNZGMyA/giphy.gif" width="100%" style="object-fit: cover;">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTd5NjJsb3MxZ3o2Z2g3OTZ4Y2U1cjl6eGRma3d5eno4ejViaDM5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MXFGq4LQuPekwwfACQ/giphy.gif" width="100%" style="object-fit: cover;">
 
 # Hi There 👋 I'm Agastya Dava 😎
 
