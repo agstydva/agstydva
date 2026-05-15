@@ -1,13 +1,15 @@
 <div align="center">
 
-# Hi There, I'm Agastya Dava 👋
+# Hi There 👋 I'm Agastya Dava 😎
 
 </div>
 
 <table border="0">
   <tr>
+    <div align="center">
+        <p>I'm a <b>Computer Science Student at Universitas Negeri Jakarta</b>. I am passionate about Software Development and Business Analyst.</p>
+    </div>
     <td width="60%" valign="top">
-      <p>I'm a <b>Computer Science Student at Universitas Negeri Jakarta</b>. I am passionate about Software Development and Business Analyst.</p>
       <ul>
         <li>🔭 I’m currently learning <b>Laravel</b> and <b>CodeIgniter</b>.</li>
         <li>🎓 6th Semester Computer Science Student at UNJ.</li>
