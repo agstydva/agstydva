@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGs2eDF3Zjh3dHAwMnk5YWY4OWo0enNob3FhbTNzZDIwdDNjamNlbCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ViaqlyyNZGMyA/giphy.gif" width="100%">
+
 # Hi There 👋 I'm Agastya Dava 😎
 
 </div>
