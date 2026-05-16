@@ -14,7 +14,7 @@
     <div align="center">
       <p>
       I'm a <b>Computer Science Student at Universitas Negeri Jakarta</b> passionate about <b>Software Development</b>, <b>Data Analysis</b>, and <b>Business Analysis</b>.  
-      Experienced in academic projects and organizational activities that strengthen leadership, collaboration, and problem-solving skills.  
+      Experienced in academic projects and organizational activities that strengthen leadership, collaboration, and problem solving skills.  
       Always eager to learn and grow in innovative tech environments.
       </p>
     </div>
