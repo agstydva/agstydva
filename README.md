@@ -3,7 +3,7 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnoxOHE0cnp0Y2Y3eG5hMGU5Ym02ZWswamlyam8yeWVtYmh0azRiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2PWBLDJ2KtB1X6o9vY/giphy.gif" width="100%">
 
 # Hi There 👋 I'm Agastya Dava 😎
-### こんにちは, アガスティア ダヴァ です 
+### こんにちは 🙏 アガスティア ダヴァ です 
 
 <br>
 
@@ -12,13 +12,17 @@
 <table border="0">
   <tr>
     <div align="center">
-        <p>I'm a <b>Computer Science Student at Universitas Negeri Jakarta</b>. I am passionate about Software Development and Business Analyst.</p>
+      <p>
+      I'm a <b>Computer Science Student at Universitas Negeri Jakarta</b> passionate about <b>Software Development</b>, <b>Data Analysis</b>, and <b>Business Analysis</b>.  
+      Experienced in academic projects and organizational activities that strengthen leadership, collaboration, and problem-solving skills.  
+      Always eager to learn and grow in innovative tech environments.
+      </p>
     </div>
     <td width="60%" valign="top">
       <ul>
         <li>🔭 I’m currently learning <b>Laravel</b> and <b>CodeIgniter</b>.</li>
         <li>🎓 6th Semester Computer Science Student at UNJ.</li>
-        <li>📫 How to reach me: <b>agastyadava01@gmail.com</b></li>
+        <li>📫 Reach Me Out: <b>agastyadava01@gmail.com</b></li>
       </ul>
     </td>
     <td width="40%" align="right" valign="top">
@@ -33,7 +37,7 @@
 
 ### 🛠 Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,kotlin,dart,react,laravel,python,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,kotlin,dart,react,laravel,python,notion,figma,tailwind,bootstrap,vscode&theme=dark" />
 
 ---
 
