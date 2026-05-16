@@ -72,7 +72,6 @@
         <p>
         <b>Fun Facts about me: </b>
         <br>
-        <br>
         <p>
         <b>INFJ🎯| Aquarius♒ | Cinephile🎬 | Nyctophile🌙</b> 
         <br>
