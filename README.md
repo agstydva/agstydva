@@ -51,6 +51,11 @@
 
 </div>
 
+#### GitHub Contribution
+
+![Pacman Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+<br>
 
 <table border="0">
   <tr>
