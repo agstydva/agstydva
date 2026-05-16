@@ -63,6 +63,7 @@
 
 
 ### 🎯 GitHub Contribution 
+#### (GitHub コントリビューション)
 ![Pacman Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <br>
