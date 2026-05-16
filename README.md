@@ -18,9 +18,6 @@
       Always eager to learn and grow in innovative tech environments.
       </p>
     </div>
-    <td width="40%" align="right" valign="top">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdmam5iNWk0d3lldGd4NXdpemh6cTZycWFmY2o1YnhsNTNzeDYxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%">
-    </td>
     <td width="60%" valign="top">
       <ul>
         <li>🔭 I’m currently learning <b>Laravel</b> and <b>CodeIgniter</b>.</li>
@@ -30,6 +27,9 @@
         <li>🎯 Actively Involved in <b>Organizational Activities</b> to <b>Strengthen Leadership & Teamwork Skills.</b></li>
         <li>📫 Reach Me Out: <b>agastyadava01@gmail.com</b></li>
       </ul>
+    </td>
+    <td width="40%" align="right" valign="top">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdmam5iNWk0d3lldGd4NXdpemh6cTZycWFmY2o1YnhsNTNzeDYxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%">
     </td>
   </tr>
 </table>
