@@ -79,7 +79,7 @@
         </p>
         <p>
         I’m also someone who enjoys learning new things and continuously exploring different fields in technology and beyond.  
-        I believe in being a lifelong learner who grows through curiosity, creativity, and continuous self-improvement.
+        I believe in being a lifelong learner who grows through curiosity, creativity, and continuous self improvement.
         </p>
         <p>
         Beyond academics and technology, I enjoy joining communities and organizational activities that allow me to connect with new people, collaborate on meaningful experiences, and continuously develop my leadership and teamwork skills.
