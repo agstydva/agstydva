@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnoxOHE0cnp0Y2Y3eG5hMGU5Ym02ZWswamlyam8yeWVtYmh0azRiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2PWBLDJ2KtB1X6o9vY/giphy.gif" width="100%">
+<!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnoxOHE0cnp0Y2Y3eG5hMGU5Ym02ZWswamlyam8yeWVtYmh0azRiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2PWBLDJ2KtB1X6o9vY/giphy.gif" width="100%"> -->
 
 # Hi There 👋 I'm Agastya Dava 😎
 ### こんにちは 🙏 アガスティア ダヴァ です 
@@ -57,8 +57,6 @@
 
 
 ### 🎯 GitHub Contribution 
-
-
 ![Pacman Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <br>
