@@ -22,7 +22,7 @@
       <ul>
         <li>🔭 I’m currently learning <b>Laravel</b> and <b>CodeIgniter</b>.</li>
         <li>🎓 6th Semester Computer Science Student at UNJ.</li>
-        <li>💻 Interested in <b>Web Development</b>, <b>Data Analysis</b>, and <b>Business Analysis</b>.</li>
+        <li>💻 Interested in <b>Software Development</b>, <b>Data Analysis</b>, and <b>Business Analysis</b>.</li>
         <li>🛠️ Building Academic and Personal Projects to <b>Improve My Technical Skills.</b></li>
         <li>🎯 Actively Involved in <b>Organizational Activities</b> to <b>Strengthen Leadership & Teamwork Skills.</b></li>
         <li>📫 Reach Me Out: <b>agastyadava01@gmail.com</b></li>
