@@ -50,3 +50,23 @@
 <a href="https://www.linkedin.com/in/agastya-dava-nurrahman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
+
+
+<table border="0">
+  <tr>
+    <td width="40%" align="right" valign="top">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZta3E3cjI0OGkydmh0cDZ6YW43eXR3dnRvZWtsempob2tvc3F4diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y4nk5bgwpWL6T5Ax9y/giphy.gif" width="100%">
+    </td>
+    <td width="60%" valign="top">
+      <ul>
+        <p>
+        <b>Fun Facts about me: </b>
+        <br>
+        INFJ🎯| Aquarius♒ | Cinephile🎬 | Nyctophile🌙 
+        <br>
+        I enjoy reflecting deeply, exploring meaningful films, and finding inspiration in the calm of the night.
+        </p>
+      </ul>
+    </td>
+  </tr>
+</table>
