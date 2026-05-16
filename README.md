@@ -39,12 +39,18 @@
 <div align="center">
 
 ### 🛠 Languages and Tools
+#### ( 技術スタック )
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,kotlin,dart,react,laravel,python,notion,figma,tailwind,bootstrap,vscode&theme=dark" />
 
 ---
 
 ### 🤝 Connect with me:
+#### ( 私とつながる )
+
+<br>
 
 <a href="mailto:agastyadava01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/agastya-dava-nurrahman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -88,3 +94,6 @@
     </td>
   </tr>
 </table>
+
+---
+
