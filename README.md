@@ -80,7 +80,7 @@
         <b>Fun Facts about me: </b>
         <br>
         <p>
-        <b>INFJ🎯| Aquarius♒ | Cinephile🎬 | Nyctophile🌙</b> 
+        <b>INFJ🦉| Aquarius♒ | Cinephile🎬 | Nyctophile🌙</b> 
         <br>
         I enjoy reflecting deeply, exploring meaningful films, and finding inspiration in the calm of the night.
         </p>
